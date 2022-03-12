@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lenny3307
+- 👀 I’m interested in Python, Java and some other things like Football and music
+- 🌱 I’m currently learning for school
+- I come from Germany (Düsseldorf)
